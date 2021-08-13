@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá Pessoa! 👋
 
-<!--
-**norbertomarcelo/norbertomarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Aqui no meu perfil do GitHub você pode ver todos os meus projetos. Deixe seu feedback, vamos trocar uma ideia.
 
-Here are some ideas to get you started:
+##### AGORA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Codando o backend meu TCC [Boa Troca](https://github.com/norbertomarcelo/boa-troca-api);
+
+##### BIO
+
+- 🏢 Atualmente cursando **Sistemas de Informacao**
+- ⚙️ Normalmente eu codo em: `.js`, `.ts`, `.java`, `.jsx`, `.tsx`.
+- 💅 Projetos: [Boa Troca](https://github.com/norbertomarcelo/boa-troca-api), [Rentx](https://github.com/norbertomarcelo/rentx), [PDF-Spliter](https://pdf-spliter.herokuapp.com/), etc…
+- 🌱 Sempre estudando sobre **Node.js** e **React**.
+- 💬 Interessado tambem em **arquitetura**, **containers**, **serverless**, 
+- 📫 Entre em contato: 
+  - [norbertomarcelo8@gmail.com](norbertomarcelo8@gmail.com)
+  - [linkedin/norbertomarcelo](https://www.linkedin.com/in/marcelo-norberto-47151367/)
