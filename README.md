@@ -3,7 +3,7 @@
 #### Aqui no meu perfil do GitHub você pode ver todos os meus projetos. Deixe seu feedback, vamos trocar uma ideia.
 
 ##### AGORA
-- ✨ Codando o backend meu TCC [Boa Troca](https://github.com/norbertomarcelo/boa-troca-api);
+- ✨ Codando o backend do meu TCC - [Boa Troca](https://github.com/norbertomarcelo/boa-troca-api);
 
 ##### BIO
 - 🏢 Atualmente cursando **Sistemas de Informação**
