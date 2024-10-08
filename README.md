@@ -7,11 +7,6 @@ Sou desenvolvedor backend com mais de 3 anos de experiência e formado em Sistem
 ##### BIO
 - 🏢 Formado em **Sistemas de Informação**
 - ⚙️ Normalmente eu codo em: `.cs` e `.py`.
-- 💅 Projetos:
-  - [Boa Troca](https://github.com/norbertomarcelo/boa-troca-api),
-  - [Prisma.app](https://github.com/norbertomarcelo/Prisma),
-  - [PDF-Spliter](https://pdf-spliter.herokuapp.com/),
-  - etc…
 - 💬 Interessado também em **arquitetura**, **containers**, **cloud** ...
 - 📫 Entre em contato: 
   - [ norbertosouza.marcelo@gmail.com](norbertosouza.marcelo@gmail.com)
